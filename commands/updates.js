@@ -7,7 +7,7 @@ module.exports = {
   name: '',
   description: '',
   execute: (message, MessageEmbed, args) => {
-
+    // write your command code here.
     
   }
 }
